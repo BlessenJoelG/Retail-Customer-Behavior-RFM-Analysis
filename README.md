@@ -5,16 +5,21 @@
 ---
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [RFM Methodology](#rfm-methodology)
-- [Key Features](#key-features)
-- [Quick Start](#quick-start)
-- [Project Structure](#project-structure)
-- [Usage Guide](#usage-guide)
-- [Results & Insights](#results--insights)
-- [Contributing](#contributing)
+# Retail Customer Behavior - RFM Analysis
 
----
+## 📁 Project Structure
+
+- [Data](./data/) - Contains raw and processed data files
+- [Scripts](./scripts/) - Python scripts for analysis
+- [Notebooks](./notebooks/) - Jupyter notebooks with analysis
+- [Results](./results/) - Output files and visualizations
+
+## 🚀 Getting Started
+
+Follow the notebooks in order:
+1. [01_Data_Exploration](./notebooks/01_Data_Exploration.ipynb)
+2. [02_RFM_Analysis](./notebooks/02_RFM_Analysis.ipynb)
+3. [03_Customer_Segmentation](./notebooks/03_Customer_Segmentation.ipynb)
 
 ## 🔍 Overview
 
